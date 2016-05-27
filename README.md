@@ -1,14 +1,19 @@
-# Architecting Managed Services Solutions on Azure
-Virtual machines in Azure are very easy to get started with.  Simply provide an image for a new virtual machine instance or choose one from the gallery and you’ll be up and running in no time.  Just like with on-premises solutions, there are best practices to follow when designing solutions comprised of virtual machines.  We will discuss best practices for specific workloads such as identity and database workloads and will highlight the areas that Architects need to remember when designing complex solutions in the cloud.
+# Designing and Managing Azure Subscriptions
+System Integrators are increasingly offering managed services to operate strategic solutions on behalf of their customers. This session discusses how subscription management affects these solutions, and how subscription limits impact architecture of solutions.
 
 ## Presentation
-Download the [PowerPoint](https://github.com/GSIAzureCOE/Managed-Services/blob/master/todo.pptx).
+Download the [MS PowerPoint](../InProgress/Designing and Managing Azure Subscriptions.pptx?raw=true).
 The PowerPoint includes full speaker notes helping you understand the slides, and everything you need to deliver the session.
 
-Watch the [video](https://gsiazurecoecontent.blob.core.windows.net/architecting-managed-services-solutions/todo.mp4).
+Watch the [video-TODO](#).
 
 ## Demos
-1. Demo 1
-[[source code](https://github.com/GSIAzureCOE/Managed-Services/blob/master/todo)]
-[[demo script](https://github.com/GSIAzureCOE/Managed-Services/blob/master/todo.docx)]
-[[video](https://gsiazurecoecontent.blob.core.windows.net/architecting-managed-services-solutions/todo.mp4)]
+1. Demo-ARM templates
+[[source code](../InProgress/Demos/armdemo.md)]
+[[demo script (MS Word Format)](../InProgress/Demos/2 - ARM Templates.docx?raw=true)]
+[[video-TODO](#)]
+
+2. Demo-RBAC and tagging
+[[source code](../InProgress/Demos/rbac-tagging-demo.md)]
+[[demo script (MS Word Format)](../InProgress/Demos/3 - RBAC and Tagging.docx?raw=true)]
+[[video-TODO](#)]
