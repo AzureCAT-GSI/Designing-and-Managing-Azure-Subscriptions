@@ -5,11 +5,9 @@ System Integrators are increasingly offering managed services to operate strateg
 Download the [MS PowerPoint](Designing and Managing Azure Subscriptions.pptx?raw=true).
 The PowerPoint includes full speaker notes helping you understand the slides, and everything you need to deliver the session.
 
-Watch the [video-TODO](#).
-
 ## Demos
-1. Demo-ARM templates [[source code](Demos/VMWithTagging)] | [[demo script](Demos/ARM-Templates)]
-2. Demo-RBAC and tagging [[source code](Demos/WebApp-Billing-MultiTenant)] | [[demo script](Demos/RBAC-and-Tagging)]
+1. Demo-ARM templates [source code](Demos/VMWithTagging) | [demo script](Demos/ARM-Templates)
+2. Demo-RBAC and tagging [source code](Demos/WebApp-Billing-MultiTenant) | [demo script](Demos/RBAC-and-Tagging)
 
 ## Session Objectives
 
