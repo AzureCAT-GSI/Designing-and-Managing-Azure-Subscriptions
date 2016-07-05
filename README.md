@@ -30,8 +30,8 @@ Watch the [video-TODO](#).
 
 ## Azure Services Covered
 
-* Azure Subscription limits [https://azure.microsoft.com/en-us/documentation/articles/azure-subscription-service-limits/]
-* Azure Subscription naming [https://azure.microsoft.com/en-us/documentation/articles/guidance-naming-conventions/]
+* [Azure Subscription limits](https://azure.microsoft.com/en-us/documentation/articles/azure-subscription-service-limits/)
+* [Azure Subscription naming](https://azure.microsoft.com/en-us/documentation/articles/guidance-naming-conventions/)
 
 ## Code of Conduct
 
