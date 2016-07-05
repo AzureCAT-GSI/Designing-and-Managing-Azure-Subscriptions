@@ -8,15 +8,8 @@ The PowerPoint includes full speaker notes helping you understand the slides, an
 Watch the [video-TODO](#).
 
 ## Demos
-1. Demo-ARM templates
-[[source code](Demos/VMWithTagging)]
-[[demo script (MS Word Format)](Demos/2 - ARM Templates.docx?raw=true)]
-[[video-TODO](#)]
-
-2. Demo-RBAC and tagging
-[[source code](Demos/WebApp-Billing-MultiTenant)]
-[[demo script (MS Word Format)](Demos/3 - RBAC and Tagging.docx?raw=true)]
-[[video-TODO](#)]
+1. Demo-ARM templates [[source code](Demos/VMWithTagging)] | [[demo script](Demos/ARM-Templates)]
+2. Demo-RBAC and tagging [[source code](Demos/WebApp-Billing-MultiTenant)] | [[demo script](Demos/RBAC-and-Tagging)]
 
 ## Session Objectives
 
