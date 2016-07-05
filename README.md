@@ -17,3 +17,22 @@ Watch the [video-TODO](#).
 [[source code](Demos/WebApp-Billing-MultiTenant)]
 [[demo script (MS Word Format)](Demos/3 - RBAC and Tagging.docx?raw=true)]
 [[video-TODO](#)]
+
+## Session Objectives
+
+* Discuss key limitations and how these affect architectures.
+* Benefits of different subscription types + DPOR.
+* Guidance on who should own the subscription and how this relates to offer design.
+
+## Session Prerequisites
+
+* None
+
+## Azure Services Covered
+
+* Azure Subscription limits [https://azure.microsoft.com/en-us/documentation/articles/azure-subscription-service-limits/]
+* Azure Subscription naming [https://azure.microsoft.com/en-us/documentation/articles/guidance-naming-conventions/]
+
+## Code of Conduct
+
+This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
