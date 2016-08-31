@@ -16,7 +16,7 @@ This guide provides steps to setup and demonstrate ARM templates.
 
 1.	Open the “VMWithTagging” solution in Visual Studio 2015.  
 2.	Right-click the “Deploy-AzureResourceGroup.ps1” file and choose “Open in PowerShell ISE”.
-3.	Log into your Azure subscription with Add-AzureRMAccount
+3.	Log into your Azure subscription with Add-AzureRMAccount.
 4.	Run the script in PowerShell.  It will prompt you for a location, password, and storage account name.  Make sure the storage account name is globally unique, you may wish to append your name to it to ensure uniqueness.
 5.	Once the script is done, the resources will be deployed to your subscription.
 
