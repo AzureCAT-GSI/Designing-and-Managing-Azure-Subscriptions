@@ -15,9 +15,10 @@ This guide provides steps to setup and demonstrate ARM templates.
 *Estimated Setup Time: 10 minutes*
 
 1.	Open the “VMWithTagging” solution in Visual Studio 2015.  
-2.	Right-click the “Deploy-AzureResourceGroup.ps1” file and choose “Open in PowerShell ISE”.  
-3.	Run the script in PowerShell.  It will prompt you for a location, password, and storage account name.  Make sure the storage account name is globally unique, you may wish to append your name to it to ensure uniqueness.
-4.	Once the script is done, the resources will be deployed to your subscription.
+2.	Right-click the “Deploy-AzureResourceGroup.ps1” file and choose “Open in PowerShell ISE”.
+3.	Log into your Azure subscription with Add-AzureRMAccount
+4.	Run the script in PowerShell.  It will prompt you for a location, password, and storage account name.  Make sure the storage account name is globally unique, you may wish to append your name to it to ensure uniqueness.
+5.	Once the script is done, the resources will be deployed to your subscription.
 
     ![image](media/image001.jpg)
 
@@ -86,16 +87,16 @@ This guide provides steps to setup and demonstrate ARM templates.
 
     ![image](media/image014.jpg)
 
-19.	Go back to PowerShell ISE.  Use the cmdlet Switch-AzureMode AzureResourceManager.  
+19.	Go back to PowerShell ISE.  
 
 20.	Run the cmdlet Get-AzureLocation to show the various providers and the locations they are available in.  There are services that cannot be provisioned with ARM templates today, however this is the future of the Azure platform and you can expect to see continued investment here.	 
     ![image](media/image015.jpg)
 
     ![image](media/image016.jpg)
 
-21.	Use the cmdlet Get-AzureResourceGroup to show the resource groups available.  Point out that all resources have a resourceId to uniquely address the resource.
+21.	Use the cmdlet Get-AzureRMResourceGroup to show the resource groups available.  Point out that all resources have a resourceId to uniquely address the resource.
 
-22.	Use the cmdlet Get-AzureResource –ResourceId and provide the resource ID from the previous execution.  Addressing a resource by its ID allows you to manage resources such as moving them to another resource group.	 
+22.	Use the cmdlet Get-AzureRMResource –ResourceId and provide the resource ID from the previous execution.  Addressing a resource by its ID allows you to manage resources such as moving them to another resource group.	 
     ![image](media/image017.jpg)
     
     ![image](media/image018.jpg)
