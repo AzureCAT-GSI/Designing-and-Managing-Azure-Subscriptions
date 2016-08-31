@@ -6,7 +6,7 @@ Download the [MS PowerPoint](Designing and Managing Azure Subscriptions.pptx?raw
 The PowerPoint includes full speaker notes helping you understand the slides, and everything you need to deliver the session.
 
 ## Demos
-1. Demo-ARM templates [source code](Demos/VMWithTagging) | [demo script](Demos/ARM-Templates)
+1. Demo-ARM templates [source code](Demos/VMWithTagging) | [demo script](Demos/ARM-Templates) | [demo video](https://azurecatgsicontent.blob.core.windows.net/designing-and-managing-azure-subscriptions/subscriptions-resourcegroups.mp4)
 2. Demo-RBAC and tagging [source code](Demos/WebApp-Billing-MultiTenant) | [demo script](Demos/RBAC-and-Tagging)
 
 ## Session Objectives
